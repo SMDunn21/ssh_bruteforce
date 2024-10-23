@@ -1,2 +1,2 @@
 # ssh_bruteforce
-the SPARSA meme
+A project from an RITSec meeting
